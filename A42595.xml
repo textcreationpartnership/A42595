@@ -1,0 +1,2407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A General and compleat list military of every commission-officer of horse and foot now commanding His Majesties land-forces of England (excepting the un-regimented companies) as also the proper distinctions of their cloathings, badges of honour, and colours of each troop and regiment : the names of the chief officers of the ordinance, and other officers belonging to the army : with a list of the royal band of gentlemen-pentioners and yeomen of the King's guard of his body : of the governours, lt. governours, and deputy-governours, throughout the kingdom : as establish't at the time of the revew upon Putney-Heath, the first of October, 1684 : as also an account of the said revew, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42595</idno>
+            <idno type="STC">Wing G487</idno>
+            <idno type="STC">ESTC R14469</idno>
+            <idno type="EEBO-CITATION">12938832</idno>
+            <idno type="OCLC">ocm 12938832</idno>
+            <idno type="VID">95834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A General and compleat list military of every commission-officer of horse and foot now commanding His Majesties land-forces of England (excepting the un-regimented companies) as also the proper distinctions of their cloathings, badges of honour, and colours of each troop and regiment : the names of the chief officers of the ordinance, and other officers belonging to the army : with a list of the royal band of gentlemen-pentioners and yeomen of the King's guard of his body : of the governours, lt. governours, and deputy-governours, throughout the kingdom : as establish't at the time of the revew upon Putney-Heath, the first of October, 1684 : as also an account of the said revew, &amp;c.</title>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Gain, for Nathan Brooks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Errata: p. [4]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Registers.</term>
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95834:1" rendition="simple:additions"/>
+            <p> A GENERAL AND COMPLEAT LIST MILITARY OF Every <hi>Commiſſion-Officer</hi> of <hi>HORSE</hi> and <hi>FOOT</hi> Now Commanding His Majeſties Land-Forces OF ENGLAND: (Excepting the Un-Regimented Companies.)</p>
+            <p>AS ALSO The Proper Diſtinctions of their Cloathings, Badges of Honour, and Colours of each Troop and Regiment.</p>
+            <p>The Names of the Chief Officers of the Ordnance, and other Officers belonging to the Army.</p>
+            <p>WITH A LIST Of the Royal Band of Gentlemen-Pentioners and Yeomen of the KING'S Guard of his Body.</p>
+            <p>Of the Governours, Lt. Governours, and Deputy-Governours, throughout the Kingdom.</p>
+            <p>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eſtabliſh't at the time of the Revew upon PUTNEY-HEATH, the Firſt of <hi>October,</hi> 1684.</p>
+            <p>As alſo an ACCOUNT of the ſaid Revew, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Gain,</hi> for <hi>Nathan Brooks, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thomas Knapton's,</hi> next Door to the <hi>Flying-Horſe</hi> in Upper <hi>Moor-Fields,</hi> 1684.</p>
+            <pb facs="tcp:95834:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95834:2"/>
+            <head>TO THE READER.</head>
+            <p>FOr fear theſe Eſſays of Military Liſts, after all the unſpeakable Drud<g ref="char:EOLhyphen"/>geries undergone to Collect and digiſt them into thoſe Methods they are now publiſh't with, ſhould nevertheleſs in the firſt place not afford their managing Reader Drums and Trumpets enough for his Money, nor in the ſecond place afford their happy Author a ratling round vent enough of the whole Impreſſion for his Pains, which comes all to one Reckoning: Are you <hi>Gentlemen,</hi> who had perhaps rather read Men then Books, without any further cutting upon good Nature, bid most heartily welcome to make the Meal up with a Treat from <hi>Putney-Heath,</hi> whoſe Camp, and manner of Encamping deſcribed by an Eye Witneſs on the firſt of <hi>October,</hi> 1684, is here over and above ſerved up Gratis; when but pleaſed to pay for the Diſh you have it in: That way endeavouring rather to give you all your B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llys-full, if poſſible, in the ſtead of ſome Meagre Advertiſement, garniſh't with an hun<g ref="char:EOLhyphen"/>dred ſmall Peccavi's to no purpoſe, for unavoidable great Faults in all under<g ref="char:EOLhyphen"/>takings of this Nature; indeed of all our ſtanding Diſh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, the moſt nauſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, whoſe craving ſort of Roſemary ſome few may chan<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to look at, but taſted of by no Body.</p>
+            <p>The major part then of thoſe his Majeſties Forces, not moving from their Poſts of preſent Duty, of whom theſe ſcattering Sheets attempt to give the World ſome little light, The remaining part quartered near hand En<g ref="char:EOLhyphen"/>camped the firſt of <hi>October</hi> upon <hi>Putney-Heath,</hi> Officer and Souldier parading there, not in leſs Gay and Splendid, then in a Martial Equipage.</p>
+            <p>The <hi>Horſe</hi> that day conſisted of the three Troops of Guards, and of their three of Granadiers, of the Earl of <hi>Oxford's</hi> Regiment of Horſe-Guards, and the Lord <hi>Churchil's</hi> Regiment of Dragoons.</p>
+            <p>The <hi>Foot</hi> of two Battalions, form'd from the Royal Regiment of Guards and their Granadiers; of one Battalion from the <hi>Cole-ſtream</hi> Regiment of Guards and Granadiers; of one Battalion from the Earl of <hi>Dunbarton's</hi> and their Granadiers; and lastly of one from the <hi>Admiral Regiment.</hi>
+            </p>
+            <p>The <hi>Horſe</hi> and <hi>Foot</hi> imbodied, and drawn in a continued Line, took their proper Post upon a riſing Ground, in length from Right to Left near a Mile and half, <hi>viz.</hi> from the <hi>Red Houſe</hi> near the Bowling-Green, ex<g ref="char:EOLhyphen"/>tended croſs the Heath, and fronting to the River.</p>
+            <p>The <hi>Horſe</hi> at their uſual depth made four Squadrons vpon the Right Wing, of which the Troops of Guards made three, and their Granadiers one. Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Left Wing of <hi>Horſe</hi> in the like manner made four Squadrons,
+<pb facs="tcp:95834:3"/> whereof my Lord of <hi>Oxford's</hi> Regiment formed two, and my Lord <hi>Chur<g ref="char:EOLhyphen"/>chil's</hi> Dragoons the other. The three Troops of Guards flanking in that Figure upon the Right of the main Body. My Lord of <hi>Oxford's,</hi> and my Lord <hi>Churchil's</hi> Regiments flanking it on the Left: in all of Horſe eight Squadrons, each conſisting of two Hundred.</p>
+            <p>The Admiral's Battalion, as youngeſt in the Field, took their Poſt in the Centre of the Line. The two Battalions of the Royal Regiment of Guards and Grana<g ref="char:EOLhyphen"/>diers being drawn upon the Admiral's Right, were immediately Flanck't by the right Wing of Horſe; my Lord <hi>Dunbarton's</hi> Battalion and Granadiers being Poſted on the Admiral's Left, and upon my Lord <hi>Dunbarton's</hi> Left was drawn the <hi>Coleſtream</hi> Battalion of Guards and Granadiers, which the Left Wing of Horſe immediately Flanck't. All the Foot at their Order drawn four deep, conſiſted of five Battalions, each of eight Companies.</p>
+            <p>The <hi>Coleſtream,</hi> my Lord <hi>Dunbarton's,</hi> and the Admiral's Battalions ſucceſſively Exerciſed all three by Beat of Drum, the Military Poſtures of Pike, Sword, and Musket; every man dexterouſly diſcharging their Duties with an ex<g ref="char:EOLhyphen"/>act and general Readineſs, to the great Delight and Satisfaction of their <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> and <hi>Royal Highneſſes,</hi> vouchſafing all the time of Exerciſe to grace their Arms with the Honour of their Preſence. The other two Battalions of the Royal Regiment had not fell ſhort of the like Performance, if Illneſs of Weather, when they juſt intended it, had not prevented: The Day proving wet and ſhowry, was a general Impediment from proceeding at that time to any other <hi>Motions,</hi> Cuſtomary upon the like Revews. All Decampt ſooner than otherwiſe they would have done.</p>
+            <p>The total <hi>Horſe</hi> and <hi>Foot</hi> which then Rendivouz'd, were above four Thouſand advantagiouſly Trained, and well clad Men. Commanded in the Field for that days Generalſhip, by the Right Honourable the Earl of <hi>Craven.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 5. l. 31. for <hi>differec't,</hi> read differenc't. p. 6. l. 20. f. <hi>Tho. Slingſby,</hi> r. Sir <hi>Tho. Slin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<g ref="char:punc">▪</g>
+               </hi> p. 12. l. 2. f. <hi>Laudſtream,</hi> r. Cauldſtream. p. 16. l. 14. f. <hi>Ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton,</hi> r. <hi>Payton.</hi> Both Author and Printer will mend their Hands, ſhould Encouragement be given for a Second Edition, and the Un-Regimented Companies ſupplied.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_officers">
+            <pb n="1" facs="tcp:95834:3"/>
+            <head>A Liſt of the ROYAL BAND of GENTLEMEN-PENTINOERS, by the Right Honourable <hi>THEOPHILUS,</hi> Earl of <hi>HUNTINGTON,</hi> Commanded in Chief.</head>
+            <list>
+               <item>
+                  <hi>Theophilus</hi> Earl of <hi>Huntington,</hi> Captain.</item>
+               <item>The Honourable <hi>Francis Vilars,</hi> Lieutenant.</item>
+               <item>Sir <hi>Tho. Bloodworth,</hi> Bar. Standard-bearer.</item>
+               <item>
+                  <hi>William Thomas,</hi> Clerk of the Cheque.</item>
+            </list>
+            <list>
+               <head>Gentlemen Pentioners.</head>
+               <item>
+                  <hi>Thomas Hales,</hi>
+               </item>
+               <item>Sir <hi>Tho. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oe.</hi> Knight,</item>
+               <item>
+                  <hi>Anthony Gawdy,</hi>
+               </item>
+               <item>
+                  <hi>Hugh Teient,</hi>
+               </item>
+               <item>Sir <hi>Robert Dacrees,</hi> Knight,</item>
+               <item>
+                  <hi>Roger Conisby,</hi>
+               </item>
+               <item>
+                  <hi>Abraham Clark,</hi>
+               </item>
+               <item>
+                  <hi>John Hubbard,</hi>
+               </item>
+               <item>
+                  <hi>John Weſt,</hi>
+               </item>
+               <item>
+                  <hi>William Aſhton,</hi>
+               </item>
+               <item>
+                  <hi>John Barnard,</hi>
+               </item>
+               <item>
+                  <hi>Walter Baker,</hi>
+               </item>
+               <item>
+                  <hi>George Farington,</hi>
+               </item>
+               <item>
+                  <hi>Edward Courthrop,</hi>
+               </item>
+               <item>
+                  <hi>Charles Goſtwick,</hi>
+               </item>
+               <item>
+                  <hi>Edward Glynn,</hi>
+               </item>
+               <item>Sir <hi>Gerard Fleetwood,</hi> Knight,</item>
+               <item>
+                  <hi>David Vivian,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Frances,</hi>
+               </item>
+               <item>
+                  <hi>Charles Cludd,</hi>
+               </item>
+               <item>Sir <hi>Tho. Knivefton,</hi> Baronet,</item>
+               <item>
+                  <hi>Chiſtopher Turner,</hi>
+               </item>
+               <item>
+                  <hi>William Rowley,</hi>
+               </item>
+               <item>
+                  <hi>Edward Mainard,</hi>
+               </item>
+               <item>
+                  <hi>Peter Lock,</hi>
+               </item>
+               <item>
+                  <hi>John Eſtcourt,</hi>
+               </item>
+               <item>
+                  <hi>Lancelot Lake,</hi>
+               </item>
+               <item>
+                  <hi>Richard Willis,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Manning,</hi>
+               </item>
+               <item>
+                  <hi>William Morgan,</hi>
+               </item>
+               <item>
+                  <hi>Bernard Turner,</hi>
+               </item>
+               <item>
+                  <hi>Ambroſe Sycom,</hi>
+               </item>
+               <item>Sir <hi>Theop. Janſon,</hi> Baronet.</item>
+               <item>
+                  <hi>John Cooper,</hi>
+               </item>
+               <item>
+                  <hi>Charnock Heron,</hi>
+               </item>
+               <item>
+                  <hi>Abraham Duplex,</hi>
+               </item>
+               <item>
+                  <hi>Henry Bynn,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Orme,</hi>
+               </item>
+               <item>
+                  <hi>Mil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Marſh,</hi>
+               </item>
+               <item>
+                  <hi>John Haſtings,</hi>
+               </item>
+               <item>
+                  <hi>Richard Child,</hi> Gent. Harbinger.</item>
+            </list>
+            <p>The Royal Band of Gentlemen-Pentioners, conſiſts of Forty Gentlemen beſides Officers; the uſual Arms they do Duty with, are gilt Battle-Axes; Their Standard is St. <hi>Georges</hi> Croſs, in a Field-Argent, with four Bends. The Captains pay is <hi>One Thouſand Pound</hi> yearly, The Lieutenants <hi>Five Hundred Pound,</hi> Standard-bearers <hi>Three Hun<g ref="char:EOLhyphen"/>dred and Ten Pound,</hi> Clerk of the Cheques <hi>One Hundred and Twenty Pound:</hi> To each Gentleman of the Band <hi>One Hundred Pound</hi> yearly.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="2" facs="tcp:95834:4"/>
+            <head>A Liſt of the Commiſſion-Officers and Yeomen of his Majeſties Guard of his Body, commanded by the Right Honourable <hi>George, Lord Viſcount Grandiſon.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>George,</hi> Lord <hi>Grandiſon,</hi> Captain.</item>
+               <item>
+                  <hi>Thomas Howard,</hi> Lieutenant.</item>
+               <item>
+                  <hi>Henry Dutton, Colt.</hi> Enſign.</item>
+            </list>
+            <list>
+               <head>Exempts</head>
+               <item>
+                  <hi>William Houghton,</hi>
+               </item>
+               <item>Sir <hi>Herbert Whaly,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Orme,</hi>
+               </item>
+               <item>
+                  <hi>Robert Sares,</hi>
+               </item>
+               <item>The Honourable <hi>Charles Villars,</hi>
+               </item>
+               <item>Clerk of the Cheque.</item>
+            </list>
+            <list>
+               <head>Yeomen.</head>
+               <item>
+                  <hi>Richard Dewel,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>William Sherloc,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>Richard Roiſton,</hi>
+               </item>
+               <item>
+                  <hi>Matthew Leper,</hi>
+               </item>
+               <item>
+                  <hi>Edward Finch,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Skelton,</hi>
+               </item>
+               <item>
+                  <hi>William Blackford,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Worth,</hi>
+               </item>
+               <item>
+                  <hi>Daniel Jenings,</hi>
+               </item>
+               <item>
+                  <hi>Richard Bowman,</hi>
+               </item>
+               <item>
+                  <hi>Charles Webb,</hi>
+               </item>
+               <item>
+                  <hi>William Croſier,</hi> ſenior.</item>
+               <item>
+                  <hi>William Ford,</hi>
+               </item>
+               <item>
+                  <hi>John Earling,</hi>
+               </item>
+               <item>
+                  <hi>Edw. Briſco,</hi> ſenior, Yeomen-Uſhers.</item>
+               <item>
+                  <hi>William Finch,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>William Dover,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Nicolas,</hi>
+               </item>
+               <item>
+                  <hi>William Woodrof,</hi>
+               </item>
+               <item>
+                  <hi>John Smith,</hi>
+               </item>
+               <item>
+                  <hi>William Attlee,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Hawkins,</hi>
+               </item>
+               <item>
+                  <hi>Daniel Lambert,</hi>
+               </item>
+               <item>
+                  <hi>Ja. Trumble,</hi>
+               </item>
+               <item>
+                  <hi>William Harvey,</hi> junior.</item>
+               <item>
+                  <hi>Thomas Winſta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ley,</hi>
+               </item>
+               <item>
+                  <hi>Iſaac Snelling,</hi>
+               </item>
+               <item>
+                  <hi>John Hebborn,</hi>
+               </item>
+               <item>
+                  <hi>John Millart,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>Dubble Brook,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>Edward Hargrave,</hi>
+               </item>
+               <item>
+                  <hi>Robert Stone,</hi>
+               </item>
+               <item>
+                  <hi>Jonas Price,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Baniſter,</hi>
+               </item>
+               <item>
+                  <hi>James Morgan,</hi>
+               </item>
+               <item>
+                  <hi>John Ferrers,</hi>
+               </item>
+               <item>
+                  <hi>Henry Harwar,</hi>
+               </item>
+               <item>
+                  <hi>John Lambert,</hi>
+               </item>
+               <item>
+                  <hi>Robert Norman,</hi>
+               </item>
+               <item>
+                  <hi>Philip Willis,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Scott,</hi>
+               </item>
+               <item>
+                  <hi>Richard Palmer,</hi>
+               </item>
+               <item>
+                  <hi>Chriſto. Sanders,</hi> Yeomen.Uſhers.</item>
+               <item>
+                  <hi>John Sares,</hi> Yeomen.Uſhers.</item>
+               <item>
+                  <hi>John Millart,</hi>
+               </item>
+               <item>
+                  <hi>Abraham Story,</hi>
+               </item>
+               <item>
+                  <hi>John Holmden,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gilpin,</hi>
+               </item>
+               <item>
+                  <hi>Henry Crow,</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Collier,</hi>
+               </item>
+               <item>
+                  <hi>Robert Fowler,</hi>
+               </item>
+               <item>
+                  <hi>John Ki<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ton,</hi>
+               </item>
+               <item>
+                  <hi>Edward Ellis,</hi>
+               </item>
+               <item>
+                  <hi>Jervis Thwaits,</hi>
+               </item>
+               <item>
+                  <hi>Jo. Scorer,</hi>
+               </item>
+               <item>
+                  <hi>John Tendring</hi>
+               </item>
+               <item>
+                  <hi>Jo. Templer.</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>Tho. Nicols,</hi> Yeomen-Uſhers.</item>
+               <item>
+                  <hi>Thomas Lambert,</hi>
+               </item>
+               <item>
+                  <hi>John Inge</hi>
+               </item>
+               <item>
+                  <hi>William Croſier,</hi> junior.</item>
+               <item>
+                  <hi>George Bulloc,</hi>
+               </item>
+               <item>
+                  <hi>William Hobbs,</hi>
+               </item>
+               <item>
+                  <hi>Ambroſe Tooth,</hi>
+               </item>
+               <item>
+                  <hi>William Wheatly,</hi>
+               </item>
+               <item>
+                  <hi>John Beter,</hi>
+               </item>
+               <item>
+                  <hi>James Palmer,</hi>
+               </item>
+               <item>
+                  <hi>John Webſter,</hi>
+               </item>
+               <item>
+                  <hi>James Haſſel,</hi>
+               </item>
+               <item>
+                  <hi>William Green,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Biſhop,</hi> late Yeo<g ref="char:EOLhyphen"/>men Uſher.</item>
+               <item>
+                  <hi>Nicholas Lane,</hi>
+               </item>
+               <item>
+                  <hi>Robert Thomſon,</hi>
+               </item>
+               <item>
+                  <hi>John Franks,</hi>
+               </item>
+               <item>
+                  <hi>Edward Briſco,</hi> junior.</item>
+               <item>
+                  <hi>William Jones,</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Troit,</hi> Yeomen-Uſher.</item>
+               <item>
+                  <hi>Anthony Clark,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Thackam,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Frye,</hi>
+               </item>
+               <item>
+                  <hi>Daniel Coyes,</hi>
+               </item>
+               <item>
+                  <hi>Richard King,</hi>
+               </item>
+               <item>
+                  <hi>Robert Parſons,</hi> Yeomen.Uſher.</item>
+               <item>
+                  <hi>Robert Kidwell,</hi>
+               </item>
+               <item>
+                  <hi>Richard St. Peire,</hi>
+               </item>
+               <item>
+                  <hi>Henry Wincheſter,</hi>
+               </item>
+               <item>
+                  <hi>Robert Radford,</hi>
+               </item>
+               <item>
+                  <hi>Eleazer Coates,</hi>
+               </item>
+               <item>
+                  <hi>Will. Harvey,</hi> ſenior, Yeomen-Uſher.</item>
+               <item>
+                  <hi>Thomas Roberts,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Caple,</hi>
+               </item>
+               <item>
+                  <hi>William Baſtian,</hi>
+               </item>
+               <item>
+                  <hi>William Harriſon,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Evans,</hi> Yeomen-Uſher.</item>
+               <item>
+                  <hi>Peter Hickman.</hi>
+               </item>
+               <item>
+                  <hi>Triſtram Thomas,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Smith,</hi>
+               </item>
+               <item>
+                  <hi>Henry Meyſon,</hi>
+               </item>
+               <item>
+                  <hi>John Brayfield.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>Ja. Evans, Roger Jakſon,</hi> Chamber-keepers.</item>
+               <item>
+                  <hi>Thomas Coleman,</hi> Deputy-Clerk of the Cheque.</item>
+            </list>
+            <p>This Guard coſiſts of one hundred Yeomen, beſides Officers; of thoſe, Fifteen are appointed Sub-altern Officers, or Yeom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n-Uſhers, with ſome additional Pay, exceeding their fellow-Yeomen, which to each is <hi>30 l.</hi> yearly. To a Yeomen-Uſher, <hi>37 l.</hi> They wear large-skirted Scarlet Coats, guarded with black Velvet, badged with a Roſe crown'd upon their Backs and Breaſts; Fifty of them armed with Ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onebuziers; Fifty with Partizans. The Captains yearly pay <hi>1000 l.</hi> The Lieute<g ref="char:EOLhyphen"/>nants <hi>500 l.</hi> Enſigns <hi>300 l.</hi> Exempts <hi>150 l.</hi> Clerk of the Cheque <hi>200 l.</hi>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="3" facs="tcp:95834:4"/>
+            <head>A Liſt of all Commiſſion &amp; Staff-Officers in the Kings own Troop of Horſe-Guards, and Troops of Gra<g ref="char:EOLhyphen"/>nadiers, by his Grace, <hi>Chriſtopher</hi> Duke of <hi>Albemarle;</hi> Knight of the moſt noble Order of the Garter, commanded in Chief, as eldeſt Colonel of Horſe in his Majeſties Kingdom of <hi>England.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Chriſtopher</hi> Duke of <hi>Albemarle,</hi> Captain, Commanding as Colonel.</item>
+               <item>The honourable <hi>Edward Villars,</hi> Lieutenants, Commanding as Lieutenant Colonels</item>
+               <item>
+                  <hi>Edmond Aſhton,</hi> Lieutenants, Commanding as Lieutenant Colonels</item>
+               <item>
+                  <hi>Edward Griffin,</hi> Lieutenants, Commanding as Lieutenant Colonels</item>
+               <item>
+                  <hi>Richard Binns,</hi> Lieutenants, Commanding as Lieutenant Colonels</item>
+               <item>Sir <hi>Walter Clarges,</hi> Cornet, Commanding as Majors,</item>
+               <item>The Right Honourable <hi>Jo.</hi> Ld. <hi>Ber<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ley,</hi>Guidon, Commanding as Majors,</item>
+               <item>
+                  <hi>Stephen Dyer,</hi> Quarter-maſter, Commanding as Captain,</item>
+               <item>
+                  <hi>Lewis Billingſley,</hi> Brigadiers, Commanding as Lieutenants,</item>
+               <item>
+                  <hi>Robert Nowell,</hi> Brigadiers, Commanding as Lieutenants,</item>
+               <item>
+                  <hi>John Baynes,</hi> Brigadiers, Commanding as Lieutenants,</item>
+               <item>
+                  <hi>Edward S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mms,</hi> Sub Brigadiers, commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>Tho. W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lford,</hi> Sub Brigadiers, commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>Jo. Brailsford,</hi> Sub Brigadiers, commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>George Nailor,</hi> Sub Brigadiers, commanding as Aſſiſtants to the Brigadiers.</item>
+            </list>
+            <list>
+               <head>The State-Major, or Staff-Officers belonging to this Troop.</head>
+               <item>Dr. <hi>Ja. Gardiner,</hi> Chaplain.</item>
+               <item>
+                  <hi>William Chapman,</hi> Clerk,</item>
+               <item>
+                  <hi>Tho. Hobs,</hi> Chirurgeon.</item>
+               <item>
+                  <hi>Hugh Fiſher,</hi> Trumpets.</item>
+               <item>
+                  <hi>Ben. Ragois,</hi> Trumpets.</item>
+               <item>
+                  <hi>Michael Mear,</hi> Trumpets.</item>
+               <item>
+                  <hi>John Baſſet,</hi> Trumpets.</item>
+               <item>
+                  <hi>Robert Mawgridge,</hi> Kettle Drum.</item>
+            </list>
+            <list>
+               <head>Granadiers attending this Troop of Guards.</head>
+               <item>
+                  <hi>John Parker,</hi> Lieutenants,</item>
+               <item>
+                  <hi>Tho. Guy,</hi> Lieutenants,</item>
+               <item>two Sergants,</item>
+               <item>two Corporals,</item>
+               <item>Hautbois 4.</item>
+               <item>Drums 2,</item>
+               <item>Private men 64.</item>
+            </list>
+            <p>This Troop of Guards conſiſts of 200, beſides Officers, diſtinguiſh't by their Carbine Belts of Velvet, laced with Gold and Silver, by their red Hooſes and Holſter-Caps, em<g ref="char:EOLhyphen"/>broidered with the Royal Cypher and Crown, Coated and Cloaked in Scarlet, lined with Blew; The Standard Crimſon, with the Royal Cypher and Crown, the Guidon diffe<g ref="char:EOLhyphen"/>renced only from the Standard by being rounded and ſlit at the end.</p>
+            <p>The Captains pay of this Troop, <hi>per diem,</hi> 01 <hi>l.</hi> 10 <hi>s.</hi> The Lieutenants 15 <hi>s.</hi> The Cornets 14 <hi>s.</hi> The Guidons 12 <hi>s.</hi> Quarter-maſters 9 <hi>s.</hi> Brigadiers 7 <hi>s.</hi> Sub-briga<g ref="char:EOLhyphen"/>diers equal with the Kings pay of a private man, which is daily 4 <hi>s.</hi>
+            </p>
+            <p>The Granadiers of this Troop have blew Loops, tufted with Yellow upon Red Coats, lined Blew, with Granadier Caps, lined the ſame, and a Blew round mark on the out<g ref="char:EOLhyphen"/>ſide, armed with Bayonets and Harquebuzes. The Lieutenants pay, <hi>per diem,</hi> of Gra<g ref="char:EOLhyphen"/>nadiers to this Troop, 8 <hi>s.</hi> Serjents 4 <hi>s.</hi> Corporals 3 <hi>s.</hi> Private men, Hautbois and Drums 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="4" facs="tcp:95834:5"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the Queen's <hi>Troop</hi> of his Majeſties Horſe-Guards and <hi>Troop</hi> of Granadiers, Commanded by the Honou<g ref="char:EOLhyphen"/>rable Sir <hi>Philip Howard.</hi>
+            </head>
+            <list>
+               <item>Sir <hi>Philip Howard,</hi> Captain, Commanding as Colonel.</item>
+               <item>Sir <hi>George Hewyt,</hi> Bar. Lieutenants, Commanding as Lieutenant Colonels.</item>
+               <item>Sir <hi>John Fenwick,</hi> Bar. Lieutenants, Commanding as Lieutenant Colonels.</item>
+               <item>
+                  <hi>Charles Orby,</hi> Cornet, Commanding as Majors.</item>
+               <item>The Honourable <hi>John Darcy,</hi> Guidon, Commanding as Majors.</item>
+               <item>
+                  <hi>William Upcott,</hi> Quarter-Maſter. Commanding as Captain.</item>
+               <item>
+                  <hi>Gorge Collingwood,</hi> Brigadiers, Commanding as Lieutenants.</item>
+               <item>
+                  <hi>John Staples,</hi> Brigadiers, Commanding as Lieutenants.</item>
+               <item>
+                  <hi>John Chittam,</hi> Brigadiers, Commanding as Lieutenants.</item>
+               <item>Sir <hi>Richard Brown,</hi> Bar. Brigadiers, Commanding as Lieutenants.</item>
+               <item>
+                  <hi>Richard Beale,</hi> Sub-Brigadiers, Commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>Richard Barham,</hi> Sub-Brigadiers, Commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>George Howard,</hi> Sub-Brigadiers, Commanding as Aſſiſtants to the Brigadiers.</item>
+               <item>
+                  <hi>Mich. Stadholm,</hi> Sub-Brigadiers, Commanding as Aſſiſtants to the Brigadiers.</item>
+            </list>
+            <list>
+               <head>The State-Major, or Staff-Officers belonging to this Troop of Guards.</head>
+               <item>
+                  <hi>Benj. Barnet,</hi> Chaplain,</item>
+               <item>
+                  <hi>Philip Aires,</hi> Clerk,</item>
+               <item>
+                  <hi>Richard Mills,</hi> Chirurg.</item>
+               <item>
+                  <hi>William Bounty,</hi> Trumpets.</item>
+               <item>
+                  <hi>William Bull,</hi> Trumpets.</item>
+               <item>
+                  <hi>Thomas Barnwell,</hi> Trumpets.</item>
+               <item>
+                  <hi>Mat. Shoar,</hi> Trumpets.</item>
+               <item>
+                  <hi>Francis Breban,</hi> Kettle Drum.</item>
+            </list>
+            <list>
+               <head>Granadiers Attending this Troop of Guards.</head>
+               <item>
+                  <hi>Richard Potter,</hi> Lieuts.</item>
+               <item>
+                  <hi>Robert Dixon,</hi> Lieuts.</item>
+               <item>two Serjts.</item>
+               <item>Two Corpor.</item>
+               <item>Four Hautbois,</item>
+               <item>Two Drums,</item>
+               <item>64 Private Men.</item>
+            </list>
+            <p>The Queen's Troop of Horſe-Guards has but two Lieutenants, otherwiſe conſiſt<g ref="char:EOLhyphen"/>ing of equal number with that of the King's, diſtinguiſh'd by Carbine Belts of Green Velvet, Laced with Gold, green Hooſes, and Holſter-Caps, Embroidered with the ſame Cypher and Crown, Coated and Cloaked as the King's, Standard and Guidon the ſame as the King's.</p>
+            <p>The Captain's Pay of this Troop, <hi>per diem,</hi> is 10 <hi>s.</hi> leſs than that of the King's, all the other Officer's Pay alike with the King's Troop, excepting the Brigadiers, who has but 6 <hi>s.</hi>
+            </p>
+            <p>The Granadiers Pay'd, Clad, and Armed as the King's, differenc't by green Loops, with yellow Tufts upon their Coats.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="5" facs="tcp:95834:5"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the <hi>Dukes</hi> Troop of his Majeſties Horſe-Guards, and Troop of Granadiers, commanded by the Right Hon<hi rend="sup">ble.</hi> 
+               <hi>LOUIS,</hi> Earle of <hi>FEVERSHAM.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Louis,</hi> Earle of <hi>Feverſham,</hi> Captain, Commanding as Colonel.</item>
+               <item>
+                  <hi>Rob<hi rend="sup">t.</hi> Werden,</hi> Lieuts. Commanding as Lt. Colonels.</item>
+               <item>
+                  <hi>Theophilus Oglethorp,</hi> Lieuts. Commanding as Lt. Colonels.</item>
+               <item>
+                  <hi>Philip Darcy,</hi> Cornet. Commanding as Majors.</item>
+               <item>
+                  <hi>Edmund Main,</hi> Guidon, Commanding as Majors.</item>
+               <item>
+                  <hi>Ferdinand Stanhop,</hi> Quartermaſter, Commanding as Cpt.</item>
+               <item>
+                  <hi>William Springall,</hi> Brigadiers, Commanding as Lieuts.</item>
+               <item>
+                  <hi>Ambroſe Norton,</hi> Brigadiers, Commanding as Lieuts.</item>
+               <item>
+                  <hi>George Haſtings,</hi> Brigadiers, Commanding as Lieuts.</item>
+               <item>
+                  <hi>Jenken Morgan,</hi> Brigadiers, Commanding as Lieuts.</item>
+               <item>
+                  <hi>Hen. Rimborn,</hi> Subbrigadiers, Commanding as Aſſiſtants to the Brgadiers.</item>
+               <item>
+                  <hi>Hen. Griffith,</hi> Subbrigadiers, Commanding as Aſſiſtants to the Brgadiers.</item>
+               <item>
+                  <hi>Sam. Hariſon.</hi> Subbrigadiers, Commanding as Aſſiſtants to the Brgadiers.</item>
+               <item>
+                  <hi>Sam. Engliſh,</hi> Subbrigadiers, Commanding as Aſſiſtants to the Brgadiers.</item>
+            </list>
+            <list>
+               <head>The State-Major, or Staff-Officers belonging to this Troop, &amp;c.</head>
+               <item>
+                  <hi>William Roles,</hi> Chaplain,</item>
+               <item>
+                  <hi>James Bridgeman,</hi> Clerk,</item>
+               <item>
+                  <hi>Gabriel Jones,</hi> Chirurg.</item>
+               <item>
+                  <hi>Jo. Seignior,</hi> Trumpets.</item>
+               <item>
+                  <hi>Pet. Lefever,</hi> Trumpets.</item>
+               <item>
+                  <hi>Rich. Phillips,</hi> Trumpets.</item>
+               <item>
+                  <hi>Moſes Phillips,</hi> Trumpets.</item>
+               <item>
+                  <hi>Cornet Vanderend,</hi> Kettle Drum.</item>
+            </list>
+            <list>
+               <head>The Granadiers attending this Troop of Guards.</head>
+               <item>
+                  <hi>Anthony Heyford,</hi> Leuts.</item>
+               <item>
+                  <hi>John Vaughan,</hi> Leuts.</item>
+               <item>two Serjts.</item>
+               <item>two Corpls.</item>
+               <item>four Hautbois</item>
+               <item>two Drumbs.</item>
+            </list>
+            <p>The <hi>Duke's</hi> Troop and Granadiers, the ſame in Pay and Number with the <hi>Queen's,</hi> the Guards only diſtinguſh't by their Carbine-Belts, laced with Silver upon yellow Velvet. Hooſes and Holdſter-Caps embroidered upon Yellow, with the ſame Cypher and Crown as the <hi>King's:</hi> The Standard and Guidon yellow Damask, with his Royal Highneſſe's Cypher and Coronet.</p>
+            <p>The Granadiers paid and clad as the King's, differec't by their Coat-Loops of Yellow upon their Breaſts.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="6" facs="tcp:95834:6"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the Royal Regiment of Horſe-Guards, Com<g ref="char:EOLhyphen"/>manded by the Right Hon<hi rend="sup">ble.</hi> 
+               <hi>AUBERY,</hi> Earle of <hi>OXFORD,</hi> Kt. of the moſt noble Order of the Garter.</head>
+            <list>
+               <item>
+                  <hi>Aubery,</hi> Earl of <hi>Oxford,</hi> Colonel.</item>
+               <item>The Hon<hi rend="sup">ble.</hi> Sir <hi>Fran. Compton,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Cornets.</cell>
+                     <cell>Quarter-maſters.</cell>
+                  </row>
+                  <row>
+                     <cell>Captain <hi>William Leg</hi> commanding the King's own Troop.</cell>
+                     <cell>Lt. <hi>William Wind,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Rowland Selsby,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Richd. Wiſe,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. Lt. <hi>Hen. Cornwell</hi> commanding the Co<g ref="char:EOLhyphen"/>lonel's Troop.</cell>
+                     <cell>Lt. <hi>Hen. Cornwell,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Edward Scot,</hi>
+                     </cell>
+                     <cell>Quar. <hi>George Cary,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Major's Troop, commanded by</cell>
+                     <cell>Lt. <hi>Cha. Adderly,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Hen. Norris,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Cha. Duncom<g ref="char:punc">▪</g>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Cha. Windham,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edmund Harris,</hi>
+                     </cell>
+                     <cell>Cor. <hi>David Lloid,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Robert Bourg,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Sandys,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edmund Turner,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Old<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ld,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Vernam,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The. Lucy,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Davenport Lucy,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Leigh,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Tho. Conisby,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho. Slingsby,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Lehunt,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Edw. Andrews,</hi>
+                     </cell>
+                     <cell>Quar. <hi>John Tuck,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walter Littleton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Phil. Munocks,</hi>
+                     </cell>
+                     <cell>Cor. <hi>Will. Carew,</hi>
+                     </cell>
+                     <cell>Quar. <hi>Walter Chetwyn,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers belonging to this Regiment.</head>
+               <item>
+                  <hi>David Lloid,</hi> Adjutant.</item>
+               <item>
+                  <hi>Syſſom,</hi> Chirurgeon.</item>
+            </list>
+            <p>This Regiment of Horſe-Guards conſiſts of eight Troops, each of them having, beſides thoſe Commiſſioned-Officers above named, three Corporals, two Trumpets, forty five private Men, diſtinguiſh't by their Carbine-Belts laced with Gold upon Buff with a red edging, Hooſes and Holdſter-Caps with the Royal Cypher, embroidered upon Blew, Coated and Cloaked Blew, lined Red. The Colonels pay <hi>per diem,</hi> as Col. and Capt. 1 <hi>l.</hi> 14 <hi>s.</hi> The Majors, as Major and Captain 17 <hi>s.</hi> A Captains 11 <hi>s.</hi> A Leiutenants 10 <hi>s.</hi> Cornets 9 <hi>s.</hi> Quarter-maſters 6 <hi>s.</hi> Corporals 03. Trumpets 3. A private mans pay 2 <hi>s.</hi> 6 <hi>d.</hi> The King's Troop has only a Kettle Drum, which none of the other Troops have, with a Standard, Crimſon, and the Imperial Crown embroidered: The Colonel's Colours flyes the Royal Cyher, Crimſon: The Major's Gold Streams, Crimſon. The firſt Troop, the Roſe Crown'd; The ſecond, a Thiſtle Crown'd; The third, the Flower-Deluces Crown'd; The fourth, the Harp Crown'd; The fifth, the Royal Oak, embroidered upon their Crimſon Colours.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="7" facs="tcp:95834:6"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the King's own Royal Regiment of <hi>DRAGOONS,</hi> Commanded by the Right Hon<hi rend="sup">ble.</hi> 
+               <hi>JOHN</hi> Lord <hi>CHURCHIL.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="3">The Right Hon<hi rend="sup">ble.</hi>
+                     </cell>
+                     <cell>
+                        <hi>John</hi> Lord <hi>Churchil,</hi>
+                     </cell>
+                     <cell>Col.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward</hi> Ld. <hi>Cornbury;</hi>
+                     </cell>
+                     <cell>Lt. Col.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh Sutherland,</hi>
+                     </cell>
+                     <cell>Maj.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Cap<hi rend="sup">ts,</hi>
+                     </cell>
+                     <cell>Lieu<hi rend="sup">ts.</hi>
+                     </cell>
+                     <cell>Cornets.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonels Troop, Commanded by Capt. Lieut. <hi>Thomas Huſſy.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Thomas Huſſy.</hi>
+                     </cell>
+                     <cell>C. <hi>William Huſſy.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Colonels Troop, Commanded by</cell>
+                     <cell>Lt. <hi>Charles Ward.</hi>
+                     </cell>
+                     <cell>C. <hi>Piercy Roche.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alx. Mackenzie,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hugh Windham.</hi>
+                     </cell>
+                     <cell>C. <hi>John Cole.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Neatby,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Williams.</hi>
+                     </cell>
+                     <cell>C. <hi>George Clifford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Coye,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Charles La Rue.</hi>
+                     </cell>
+                     <cell>C. <hi>Will. Staniford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho. Langſton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Fran. Langſton.</hi>
+                     </cell>
+                     <cell>C. <hi>Tho. Pownel.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the Regiment of <hi>Dragoons.</hi>
+               </head>
+               <item>
+                  <hi>Thomas Crawly,</hi> Adjutant,</item>
+               <item>
+                  <hi>Theobald Churchil,</hi> Chaplain,</item>
+               <item>
+                  <hi>Hen. Hawker,</hi> Quart. Maſter,</item>
+               <item>
+                  <hi>Peregrine Yewel</hi> Chirurg.</item>
+            </list>
+            <p>This Royal Regiment of <hi>Dragoons</hi> conſiſts of ſix Troops, beſides the Officers above<g ref="char:EOLhyphen"/>named: each has 1 Quarter-Maſter, 2 Serjeants, 3 Corporals, 2 Hautbois, 2 Drums, and 50 Private Men; Armed with Muskets and Bayonets, Coated and Cloaked red lined blew; Hooſes embroidered with blew and yellow upon red, with the Royal Cypher; Caps the ſame, with R. Cypher. The Colonels Pay of <hi>Dragoons</hi> per diem, as Col. and Capt. 1 <hi>l.</hi> 6 <hi>s.</hi> Lieut. Cols. Pay as Lt. Col. and Capt. 1 <hi>l.</hi> Capt. Pay 11 <hi>s.</hi> Lieut. Pay 6 s. Cornets 5 <hi>s.</hi> Quart. Maſt. 3 <hi>s.</hi> Serjts. 2. <hi>s.</hi> 6 <hi>d.</hi> Corpl's 2 <hi>s.</hi> Haut<g ref="char:EOLhyphen"/>bois and Drums 2 <hi>s.</hi> Private Men 1 <hi>s.</hi> 6 <hi>d. per Diem.</hi>
+            </p>
+            <p>The Colours to each Troop thus diſtinguiſh't—The Colonel's, the Royal Cypher and Crown embroidered upon Crimſon: the Lieut. Col. the Rays of the Sun proper Crown'd, iſſuing out of a Cloud proper, and is a Badge of the Black Princes. The firſt Troop has for Colours the top of a Beacon crown'd ore with flames of Fire pro<g ref="char:EOLhyphen"/>per, and is a Badge of <hi>Henry V.</hi> The ſecond Troop, two <hi>Eſtreages Feathers</hi> crown'd, argent; a Badge of <hi>Henry VI.</hi> The third a Roſe and Pomgranate impaled, leaves and ſtalk vert. a Badge of <hi>Henry VII.</hi> The fourth Troop a <hi>Phenix</hi> in flames proper, a Badge of Queen <hi>Elizabeth:</hi> Each embroidered upon Crimſon.</p>
+            <list>
+               <item>Capt. <hi>John Staples</hi> Adjutant, General of the Horſe,</item>
+               <item>
+                  <hi>Peter Smith,</hi> Marſhal of the Horſe.</item>
+            </list>
+            <pb facs="tcp:95834:7"/>
+         </div>
+         <div type="list_of_officers">
+            <pb n="9" facs="tcp:95834:7"/>
+            <head>A Liſt of the chief Officers of the Ordnance, and other General <hi>Officers</hi> belonging to the Army.</head>
+            <list>
+               <head>The Right Honourable <hi>George</hi> Lord <hi>Dartmouth,</hi>
+               </head>
+               <item>Maſter General of the Ordnance.</item>
+               <item>Sir <hi>Charles Muſgrave,</hi> Bar. Lieut. General of the Ordnance.</item>
+               <item>Sir <hi>Bern. De Gomi,</hi> Surveyer &amp; Ingeneer General of the Ordinance.</item>
+               <item>Captain <hi>Richard Leake,</hi> Maſter-Gunner of <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <item>The Honourable <hi>Charles Bertie,</hi> Treaſurer of the Ordnance,</item>
+               <item>Sir <hi>Edward Sherburn,</hi> Clark of the Ordnance,</item>
+               <item>
+                  <hi>William B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>idges,</hi> Eſq; Store-Keeper,</item>
+               <item>
+                  <hi>—Gardiner,</hi> Eſq; Clerk of the Deliveries.</item>
+            </list>
+            <list>
+               <head>Other General Officers belonging to the Army.</head>
+               <item>
+                  <hi>Charles Fox,</hi> Eſq; Pay-Maſter General of all the Land-Forces,</item>
+               <item>The Honourable <hi>Henry Howard,</hi> Commiſſary General of the Muſters,</item>
+               <item>
+                  <hi>David Crawford,</hi> Eſq; Deputy Commiſſary General of the Muſters,
+<list>
+                     <item>To whom belong eight Provincial Commiſſaries.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>William Blathwait,</hi> Eſq; Secretary at War,</item>
+               <item>
+                  <hi>George Clark,</hi> Eſq; Judge Advocate,</item>
+               <item>Col. <hi>James Haſſel,</hi> Scout-Maſter General,</item>
+               <item>
+                  <hi>James Pierce,</hi> Eſq; Chirurgeon General,</item>
+            </list>
+         </div>
+         <div type="list_of_officers">
+            <pb n="10" facs="tcp:95834:8"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the Royal Regiment of Foot-Guards, Commanded in chief by his Grace, <hi>HENRY,</hi> Duke of <hi>GRAFTON,</hi> Knight of the moſt noble Order of the Garter.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Duke of <hi>Grafton,</hi> Colonel.</cell>
+                     <cell>
+                        <hi>John Strode,</hi> Lieutenant Colonel.</cell>
+                     <cell>
+                        <hi>William Eyton,</hi> Major.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The honourable <hi>Sackville Tuffton,</hi> commanding the King's own Com<g ref="char:EOLhyphen"/>pany as Capt.</cell>
+                     <cell>Lt. <hi>Gilbert Talbot,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Seymor,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Colonel's Company, com<g ref="char:EOLhyphen"/>manded by Capt. Lt.—</cell>
+                     <cell>
+                        <hi>Edward Rouſe,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Hen. Bennet,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Leutenant Colonels Company, commanded by—</cell>
+                     <cell>Lt. <hi>John Headly,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Giles Spicer,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Major's Company, comman<g ref="char:EOLhyphen"/>ded by—</cell>
+                     <cell>Sir <hi>William Queriſtan,</hi> Bar. Lt.</cell>
+                     <cell>Enſ. <hi>Fran. Edwards,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Roger Manly,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Robert Baxter,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Robert Knott.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The honourable <hi>John Berckley,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edmund Harris,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Tho. Rawly,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Stradling,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Leake,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Berckley,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ralph Delavall,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John George,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Gibbons,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Skelton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hen. Colyer,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Tho. Dring,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmond Rerersby,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Stint Duncome,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Throgmorton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Knivet Haſtings,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hen. Sandys,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Edmund Wyndam,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hen. Saville,</hi> Capt.</cell>
+                     <cell>Lt. <hi>William Richards.</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Hen. Wigmore,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Selwyn,</hi> Capt.</cell>
+                     <cell>Lt. <hi>James Hancock,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Oliver St. John,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Lloid,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Corbet Hen,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Aſton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho. Throgmorton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Charles Robinſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Cornwallis,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arthur Corbet,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Mat. Palmer,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Stephen Bellieu,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Seymour,</hi> Capt.</cell>
+                     <cell>Lt. <hi>William Chumley,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>James Hariſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ferdin. Haſtings,</hi> Capt.</cell>
+                     <cell>Lt. <hi>David Taylor,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Hen. Hodſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philip Kirk,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Gilbert Primroſe,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>John Delavalle,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Wheeler,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Richard Woodward,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Charles Goſt,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lenthal Warcup,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Andr. Pitcarn, al. Wheeler,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Charles Wolſeley,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Proier,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Duncan Abercromy,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>David Eaton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Midleton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>William Smith,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oriſter,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="11" facs="tcp:95834:8"/>
+            <head>A Liſt of all <hi>Commiſſion</hi> and <hi>Staff-Officers</hi> in the Royal Regiment of <hi>Foot-Guards</hi> and <hi>Granadiers,</hi> Com<g ref="char:EOLhyphen"/>manded by his Grace <hi>HENRY, Duke of GRAFTON,</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wil. Parſons,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Byns,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Richard Dalby,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Hawly,</hi> Capt. of a Company of <hi>Granadiers</hi>
+                     </cell>
+                     <cell>Lt. <hi>Chevalier De'meziere,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Lt. <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Dolmain,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the Royal Regiment of Foot-Guards.</head>
+               <item>
+                  <hi>Henry Sands,</hi> Adjutant,</item>
+               <item>
+                  <hi>Chavalier de Meziere,</hi> 2<hi>d.</hi> Adjutan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</item>
+               <item>
+                  <hi>Tho. Jones,</hi> Quar. Maſt. &amp; Marſhal,</item>
+               <item>Dr. <hi>Morrice,</hi> Chaplain,</item>
+               <item>
+                  <hi>John Noad,</hi> Chirurgeon,</item>
+               <item>
+                  <hi>Franckin &amp; Belemay,</hi> Chir. Mates,</item>
+               <item>
+                  <hi>Edward Skirrum,</hi> Drum-Major.</item>
+            </list>
+            <p>This firſt Regiment of Foot-Guards has 24 Companies eſtabliſh't, two Serjeants, three Corporals, and two Drums in each, the King's own Company having a Sergeant more than the other Companies; di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tinguiſh't by red Coats lined blew, blew Stockings, blew breeches and white Saſhes with blew fringe. The Pay of all his Majeſties <hi>Commiſſion-Offieers</hi> of Foot in every Regiment and Company, alike: That of Private <hi>Centinels,</hi> 8 d. <hi>per diem;</hi> excepting in the two Regiments of Foot-Guards, which is <hi>per diem</hi> 10 d.</p>
+            <p>Attended by a company of Granadiers, armed with Muskets and Bayonets, with<g ref="char:EOLhyphen"/>out Swords, having beſides the <hi>Comm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſion'd</hi> Officers, 2 Serjeants, 3 Corporals, and 2 Drums: Upon Caps lined blew, tuf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed blew and red, their Granadiers bear the R. Cy<g ref="char:EOLhyphen"/>pher crown'd, for their diſtinction: This Regiment flyes St. <hi>George</hi>'s Croſs in a white Field, <hi>Viz.</hi> The King's own Company, the Standard all <hi>Crimſon, Cypher</hi> and <hi>Crown</hi> embroidered with Gold.—The Colonel's, whi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the red <hi>Croſs,</hi> the <hi>Crown</hi> or.—The <hi>Lt. Colonels.</hi> the ſame <hi>Croſs,</hi> with C. R. c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own'd or.—The <hi>Major</hi>'s with <hi>C. R.</hi> and <hi>Crown</hi> or, with a Blaze crimſon.—The firſt <hi>Company</hi> with the King's <hi>Creſt,</hi> which is a <hi>Lyon</hi> p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſant gardant, crown'd or, ſtanding on a <hi>Crown</hi> or.—II. <hi>Comp.</hi> a <hi>Roſe</hi> and <hi>Crown</hi> or.—III. <hi>Flower-de-luce</hi> and <hi>Crown</hi> or.—IV. <hi>Portcullis</hi> and <hi>Crown</hi> or.—V. A white <hi>Roſe</hi> in the Rays of the <hi>Sun,</hi> and <hi>Crown</hi> or. VI. <hi>Thiſtle</hi> and <hi>Crown</hi> or.—VII. <hi>Harp</hi> and <hi>Crown</hi> or.—VIII. A <hi>Dragon</hi> paſſant and <hi>Crown.—</hi>IX. A <hi>Greyhound</hi> paſſant argent colour'd and <hi>Crown</hi> or.—X. <hi>Sun</hi> and <hi>Crown.—</hi>XI. <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> paſſant, argent, armed ungled, and lined and <hi>Crown</hi> or.—XII. <hi>Antelope,</hi> argent, arm'd, ungled, and lined or, gorg'd wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a Ducal <hi>Crown,</hi> and <hi>Chain</hi> circumflex'd or.—XIII. A <hi>Stag</hi> ſtanding at gaze, and <hi>Crown</hi> or.—XIV. A <hi>Falcon</hi> riſing argent within a Fetterlock or, crown'd or.—XV. <hi>Roſe</hi> and <hi>Crown</hi> or, <hi>Stalk</hi> and <hi>Leaves</hi> vert.—XVI. A <hi>Swan</hi> argent, membered and beak or, gorged with a <hi>Collar</hi> and <hi>Chain</hi> circumflex't or.—XVII. A <hi>Falcon</hi> argent membred, beak't, bells, and jeſſes, and ground, holding in the dexter Foot a <hi>Scepter</hi> all o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Crown</hi> or.—XVIII. The <hi>Stump</hi> of a Tree eraced or, <hi>Leaves</hi> vert, a <hi>Crown</hi> or.—XIX. A <hi>Sword</hi> and <hi>Scepter</hi> in Saltier or, the Blade proper.—XX. The <hi>Royal-Oak</hi> and <hi>Crown</hi> or.—Each Colours has a white Field, the Kings own excepted, with a red <hi>Croſs,</hi> with theſe Badges in the Center of the <hi>Croſſes.</hi>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="12" facs="tcp:95834:9" rendition="simple:additions"/>
+            <head>A Liſt of all Commiſſion and Staff-<hi>Officers</hi> in the <hi>Cole-Stream,</hi> al. <hi>Laud-Stream</hi> Regiment of Foot-Guards, Commanded by the Right Honou<hi rend="sup">ble.</hi> 
+               <hi>WILLIAM</hi> Earl of <hi>CRAVEN.</hi>
+            </head>
+            <list>
+               <item>The Earl of <hi>Craven</hi> Colonel,</item>
+               <item>
+                  <hi>Edward Sackvile,</hi> Lt. Colonel,</item>
+               <item>
+                  <hi>John Huitſon,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonels Company commanded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>Henry Cope,</hi>
+                     </cell>
+                     <cell>Enſign <hi>George Wyth,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Colonel's Com<g ref="char:EOLhyphen"/>pany commanded by—</cell>
+                     <cell>Lt. <hi>Edmond Steukly,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Wil. Wakefield,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Majors Company, commanded by—</cell>
+                     <cell>Lt. <hi>Henry Wharton,</hi>
+                     </cell>
+                     <cell>Enſign <hi>John Drake,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Miller,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Thomas Seymour,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Adrian Moor,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Antho. Markam,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Robert Wilkins,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Francis Marſhal,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Kendal,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Wil. Gibbons,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Wil. Mathews,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wm. Wakelin,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edward Braddoc,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Gamal. Chitwynd,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wm. Cholmely,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Clark,</hi>
+                     </cell>
+                     <cell>Enſign <hi>James Wynd,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cha. Cotton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Wil. Hewyt,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Char. Wakelyn,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Pope,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Wil. Rigg,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Bozoon Symons,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heneage Finch,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edward Jones,</hi>
+                     </cell>
+                     <cell>Enſign <hi>John Wyberd,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dudly Rupert,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Hope,</hi>
+                     </cell>
+                     <cell>Enſign <hi>Allen Cotton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Jam. Bridgeman,</hi> Capt. of a Company of Gra<g ref="char:EOLhyphen"/>Granadiers.</cell>
+                     <cell>Lt. <hi>Edw. Skelton,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lt. <hi>James Ward,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the <hi>Cole-ſtream</hi> Regiment, <hi>&amp;c.</hi>
+               </head>
+               <item>
+                  <hi>Robert Wilkins,</hi> Adjutant,</item>
+               <item>
+                  <hi>Mat. Ingram,</hi> Quarter-Maſter,</item>
+               <item>Dr. <hi>John Price,</hi> Chaplain,</item>
+               <item>
+                  <hi>John Treutbeck,</hi> Chirurgeon,</item>
+               <item>
+                  <hi>John Brown,</hi> Chirurgeon's Mate,</item>
+               <item>
+                  <hi>Thomas Goodman,</hi> Drum-Major.</item>
+            </list>
+            <p>This Regiment of Foot-Guards, eſtabliſh't as the former, conſiſting of twelve Com<g ref="char:EOLhyphen"/>panies, diſtinguiſh't by red Coats lined green, red Stockings, and red Breeches, and white Saſhes fringed green, attended by a Company of Granadiers, as the Duke of <hi>Grafton's:</hi> Their <hi>Caps</hi> lined green, with green Taſſels, for their diſtinction: Flyes, St. <hi>George's</hi> Croſs, bordered with white in a blew Field.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="13" facs="tcp:95834:9"/>
+            <head>A Liſt of all <hi>Commiſſion</hi> and <hi>Staff-Officers</hi> in the Royal Regiment of <hi>Foot</hi> and <hi>Granadiers,</hi> Gommanded by the Right Honourable GEORGE, Earl of DUNBARTON.</head>
+            <list>
+               <item>The Earl of <hi>Dunbarton,</hi> Colonel,</item>
+               <item>Sir <hi>James Hacket,</hi> Lt. Colonel,</item>
+               <item>
+                  <hi>Archibald Duglas,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonel's company commanded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>James Eaſtland,</hi> Capt. Lt. <hi>John Ackmooty,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Charles Arnott,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Colonels com<g ref="char:EOLhyphen"/>pany commanded by—</cell>
+                     <cell>
+                        <hi>Robert Drury, Robert Hacket,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Alex. Gawn,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Majors company commanded by—</cell>
+                     <cell>
+                        <hi>Murdo Mackenzie, James Lawe,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Tho. Daviſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Melvin,</hi> Capt.</cell>
+                     <cell>
+                        <hi>John Sterling, Henry Car,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Pet. Robinſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Duglas,</hi> Capt.</cell>
+                     <cell>
+                        <hi>David Clark, John Murray,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Adam Bell,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Monro,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Robert Gordon, And. Rutherford,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Alex. Monro,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Lawder,</hi> Capt.</cell>
+                     <cell>
+                        <hi>William Deans, John Chittam,</hi> younger Lt</cell>
+                     <cell>Enſ. <hi>Roth. Makenzie</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Archibald Roll<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> Capt.</cell>
+                     <cell>
+                        <hi>John Mouat, Tho. Ogleby,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Collen Camel,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>James Moray,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Andrew Scot, John Straghan,</hi> younger Lt</cell>
+                     <cell>Enſ. <hi>Cha. Moray,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ld. <hi>Geo. Hamilton,</hi> Capt.</cell>
+                     <cell>Sir <hi>John Johnſton,</hi> Bar. <hi>Jo. Leeds,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Joh. Alexander.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Moncrife,</hi> Capt.</cell>
+                     <cell>
+                        <hi>George Graham, John Leviſton,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>John Lundy,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Of Granadiers, <hi>Robert Hodges,</hi> Capt.</cell>
+                     <cell>
+                        <hi>James Stuart, George Griffin,</hi> younger Lt.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Char. Barclay,</hi> Capt.</cell>
+                     <cell>
+                        <hi>George Stuart, Andrew Barclay,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Wm. Robinſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Murray,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Walter Murray, Thomas Scot,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Thomas Bruce,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Ruthen,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Fredrick Hamilton, David Garioch,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>M. Mackentoch</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Car,</hi> Capt.</cell>
+                     <cell>
+                        <hi>James Mackcrakin, Ja. Moultray,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Wm. Magil,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Forbes,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Robert Leviſton, Matthew Smelt,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Jo. Bannerman,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John White,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Robert Car, William White,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Ja. Poor,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Murray,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Adam Cunningham, Wm. Owen,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Jo. Mackultoch</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ld. <hi>Geo. Murray,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Wm. Barclay, Dav. Mac Adam,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Ja. Grant,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alex. Cunningham,</hi> Capt.</cell>
+                     <cell>
+                        <hi>Alex. Perſon, John Maxwell,</hi> younger Lt.</cell>
+                     <cell>Enſ. <hi>Geo. Hamilton,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of this Regiment of Foot,</head>
+               <item>
+                  <hi>Rotheric Mackenzie,</hi> Chaplain,</item>
+               <item>
+                  <hi>Murdo Mackenzie,</hi> Adjutant,</item>
+               <item>
+                  <hi>J. Broomer,</hi> Quar. Maſt. &amp; Mar.</item>
+               <item>
+                  <hi>Franc. Beaulieu,</hi> Chirurgeon,</item>
+               <item>
+                  <hi>
+                     <gap reason="blank" extent="2 words">
+                        <desc> _____ _____ </desc>
+                     </gap>
+                  </hi> Chir. Mate,</item>
+               <item>
+                  <hi>Char. Price,</hi> Drum. Major,</item>
+               <item>One Piper belonging to the Colone'ls Company.</item>
+            </list>
+            <p>This Regiment of Foot conſiſts of <hi>21</hi> Companies, has <hi>2 Lieutenants</hi> to each <hi>Company, 3 Serjeants, 3 Corporals,</hi> and <hi>2 Drums</hi> eſtabliſh't, diſtinguiſh't by red <hi>Coats</hi> lined white, Saſhes white, with a white Fringe, Breeches and Stocking light grey; Granadiers diſtinguiſh't by <hi>Caps</hi> lined white, the Lions face proper crown'd: Flys St. <hi>Andrews Croſs,</hi> with <hi>Thiſtle</hi> and <hi>Crown,</hi> circumſcribed in the centre, <hi>Nemo me impune laceſſet.</hi>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="14" facs="tcp:95834:10"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers, in the <hi>Queen</hi>'s Regiment of Foot, commanded by the Hon<hi rend="sup">ble.</hi> 
+               <hi>PIERCY KIRK.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Piercy Kirk,</hi> Colonel,</item>
+               <item>
+                  <hi>Marmaduke Bointon,</hi> Lieutenant Colonel,</item>
+               <item>Sir <hi>James Leſley,</hi> Major</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Colonel</hi>'s Company commanded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>William Berry,</hi> Capt. Lt.</cell>
+                     <cell>Enſ. <hi>Samuel Atkins,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lt. Colonels</hi> Company, commanded by—</cell>
+                     <cell>Lt. <hi>George Weſtcomb,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Mountague,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Major</hi>'s Company, commanded by—</cell>
+                     <cell>Lt. <hi>Henry Withers,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>John Fairborne.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Giles,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Jenken Thomas,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Mortimore,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas St. John,</hi> Capt.</cell>
+                     <cell>Lt. <hi>William Webſter,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Synhouſe,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brent. Ely,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Wingfield,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>David Roach,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Rowe,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Charles Gerard,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Antho. La Pinitiere,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Wingfield,</hi> Capt.</cell>
+                     <cell>Lt. <hi>James Adams,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>John Fitzgerald,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Barbour,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Richard Law,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Ewald Tuſteen,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>William Mathews,</hi> Capt. commanding the <hi>Granad.</hi>
+                     </cell>
+                     <cell>Lt. <hi>Rich. Billin,</hi> Lts. of <hi>Granad.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lt. <hi>George Kirk,</hi> Lts. of <hi>Granad.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the Queen's Regiment.</head>
+               <item>
+                  <hi>William Stauton,</hi> Adjutant,</item>
+               <item>
+                  <hi>William Powny,</hi> Quarter-Maſter,</item>
+               <item>
+                  <hi>Edward Hughs</hi> Chaplain,</item>
+               <item>
+                  <hi>John Wylye,</hi> Chirurgeon.</item>
+            </list>
+            <p>The Queens Regiment conſiſts of ten Companies excluſively, beſides the Granadiers, flyes a red <hi>Croſs,</hi> bordered white, and Rays as the Admiral's, in a green Field, with her Majeſties Royal Cypher in the <hi>Centre.</hi>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="15" facs="tcp:95834:10"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the Lord High Admiral of <hi>England's,</hi> His ROYAL HIGHNESS the Duke of <hi>YORK</hi> and <hi>Al<g ref="char:EOLhyphen"/>bany's Marittime</hi> Regiment of Foot, commanded by the Hon<hi rend="sup">ble.</hi> Sir <hi>CHARLES LITTLETON.</hi>
+            </head>
+            <list>
+               <item>Sir <hi>Charles Littleton,</hi> Colonel.</item>
+               <item>
+                  <hi>Oliver Niclas,</hi> Lt. Colonel.</item>
+               <item>
+                  <hi>Richard Bagett,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonels Company commanded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>Robert Craford,</hi> Capt. Lt.</cell>
+                     <cell>Enſ. <hi>Philomon Powell,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Cols. Company commanded by—</cell>
+                     <cell>Lt. <hi>Edmond Yarbourg,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Antho. Townſend.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Major's Company commanded by—</cell>
+                     <cell>Lt. <hi>Theophilact Blechenden,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Perſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Littleton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edmond Wilſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Ja. Man,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Tho. Cutler,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Robert Lloid,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>John H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Nott,</hi> Capt.</cell>
+                     <cell>L. <hi>Fran. Hoblin,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Alex. Erwin,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fran. Ezord,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Fra. Butler,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Tho. Man,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Harris,</hi> Capt.</cell>
+                     <cell>L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>John Thorn,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Somer,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sam. Scudamore,</hi> Capt.</cell>
+                     <cell>Lt. <hi>George Rook.</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Gilbert Simons,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chicheſter Wray,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hen. Hewys,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>George Littleton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cha. Herbert,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Tho. Whaly,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Fra. Ezord,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmond Plowden,</hi> Capt.</cell>
+                     <cell>Lt. <hi>William Oglethorpe.</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Whaley,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>State-Major, or the Staff-Officers of the Admiral-Regiment.</head>
+               <item>
+                  <hi>Richard Beauvoir,</hi> Adjutant,</item>
+               <item>
+                  <hi>Tobias Legroſe</hi> Quart-maſter,</item>
+               <item>
+                  <hi>Samuel Tatham,</hi> Chirurg.</item>
+               <item>
+                  <hi>John Tatham,</hi> Chirurgmate.</item>
+            </list>
+            <p>The Admiral's Regiment conſiſts of twelve Companies, without Granadiers, coated yellow, lined red, flyes the red <hi>Croſs,</hi> with Rays of the Sun iſſuing from each angle of the <hi>Croſs</hi> or.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="16" facs="tcp:95834:11" rendition="simple:additions"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in the <hi>Holland</hi> Regiment of Foot, commanded by the Right Honourable <hi>JOHN,</hi> Earl of <hi>MULGRAVE,</hi> Knight of the moſt noble Order of the Garter.</head>
+            <list>
+               <item>
+                  <hi>John,</hi> Earl of <hi>Mulgrave,</hi> Colonel.</item>
+               <item>Sir <hi>Tho. Ogle,</hi> Lt. Colonel.</item>
+               <item>
+                  <hi>James Sterling,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonel's Company commanded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>John Briſtow,</hi> Capt. Lt.</cell>
+                     <cell>Enſ. <hi>John King,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Col. Company, commanded by—</cell>
+                     <cell>Lt. <hi>Hen. Holt,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Skrimpton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Major's Company, commanded by—</cell>
+                     <cell>Lt. <hi>Francis Sterling,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Fra. Rogers.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Berry,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Fran. Williamſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Richard Moore,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hen. Boade,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hen. Bayton,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Meules,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cha. Manwaring,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Tho. Sanders,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Ehud Boad,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ewd. Fitz Patrick,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Bernard Boutell,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Antho. Alix,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fran. Collingwood.</hi> Capt.</cell>
+                     <cell>Lt. <hi>Edw. <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Jo. Prideux,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Wheeler,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Hen. Feilding,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Tho. Smith,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Herbert Throgmorton,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Martin,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Mich. Richardſon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Birch,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Richard Boulton,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Fra. Foſter,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Humphry Barington,</hi>
+                     </cell>
+                     <cell>Lt. <hi>George Pilkinton,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Oliver Luke,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the <hi>Holland</hi> Regiment.</head>
+               <item>
+                  <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvas Rouſe,</hi> Adjutant.</item>
+               <item>
+                  <hi>John Wormal,</hi> Quart-maſt. and Marſhal.</item>
+               <item>
+                  <hi>Ja. Peirce,</hi> Chirurg</item>
+               <item>
+                  <hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </hi> Chirurg. Mate</item>
+            </list>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Holland</hi> Regiment conſiſts of twelve Companies, without Granadiers; Coated <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, lines with a Fleſh Colour; flies the Red Croſs, bordered White in a Green <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d.</p>
+         </div>
+         <div type="list_of_officers">
+            <pb n="17" facs="tcp:95834:11"/>
+            <head>A Liſt of all Commiſſion and Staff-Officers in her <hi>Royal Highneſſes,</hi> the Dutches of <hi>YORK</hi> and <hi>AL<g ref="char:EOLhyphen"/>BANYS</hi> Regiment of Foot, commanded by the Hon<hi rend="sup">ble.</hi> 
+               <hi>CHARLES TRELAWNY.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Charles Trelawny,</hi> Colonel.</item>
+               <item>
+                  <hi>Charles Churchil,</hi> Lt. Colonel.</item>
+               <item>
+                  <hi>Zachariah Tiffen,</hi> Major.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Captains.</cell>
+                     <cell>Lieutenants.</cell>
+                     <cell>Enſigns.</cell>
+                  </row>
+                  <row>
+                     <cell>The Colonel's Company com<g ref="char:EOLhyphen"/>manded by Capt. Lt.</cell>
+                     <cell>
+                        <hi>William Davis,</hi> Capt. Lt.</cell>
+                     <cell>Enſ. <hi>John Bedford,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lt. Cols. Company com<g ref="char:EOLhyphen"/>manded by—</cell>
+                     <cell>Lt. <hi>Gerge Bynn,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>William Wharton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Major's Company com<g ref="char:EOLhyphen"/>manded by—</cell>
+                     <cell>Lt. <hi>Hen. Paget,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Hen. Tiffin,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hen. Trelawny,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Malham,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Wolfern Cornwall,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Fox,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Cole,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Peircy Kirke,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Griffin,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Stephen Hobſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Sam. Arnott,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Haſtings,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Tho. Atkinſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>La Bruce,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Strode,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Fran. Nicolſon,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>John Avery,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Saville,</hi> Capt.</cell>
+                     <cell>Lt. <hi>Tho. Lucy,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Emmanuel Hobbs,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hayman Rook,</hi> Capt.</cell>
+                     <cell>Lt. <hi>John Hedger,</hi>
+                     </cell>
+                     <cell>Enſ. <hi>Fra. Wyvitt,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Charles Johnſon,</hi> Capt. of a Company of <hi>Granadiers.</hi>
+                     </cell>
+                     <cell>Lt. <hi>Hen. Davis,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lt. <hi>William Ghames,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>The State-Major, or Staff-Officers of the <hi>Dutcheſſes</hi> Regiment.</head>
+               <item>
+                  <hi>Charles Carole,</hi> Adiutant.</item>
+               <item>
+                  <hi>Sam. Rich,</hi> Quarter-Maſter.</item>
+               <item>
+                  <hi>Henry Muſlo,</hi> Chirurg.</item>
+               <item>
+                  <hi>John Bynn,</hi> Chirurg. Mate.</item>
+            </list>
+            <p>Conſiſts of ten Companies excluſively, beſides the Company of <hi>Granadiers,</hi> which attends this Regiment; It flies a Red Croſs in a Yellow-Field, bordered White, with Rays, as that of the Admiral's, with her Royal Highneſſes Cypher in the Center.</p>
+         </div>
+         <div type="list_of_governors">
+            <pb n="18" facs="tcp:95834:12"/>
+            <head>A Liſt of all Governours, Lieutenant Governours, and Deputy Governours, &amp;c.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Governours.</cell>
+                     <cell>Lt. Governours, &amp; Deputy-Governours.</cell>
+                  </row>
+                  <row>
+                     <cell>His Grace, <hi>Henry,</hi> Duke of <hi>New-Caſtle,</hi> Governour of <hi>Berwick.</hi>
+                     </cell>
+                     <cell>The Honourable <hi>Raph. Widdrington,</hi> De<g ref="char:EOLhyphen"/>puty-Governour of <hi>Berwick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Fenwick,</hi> Baronet, Gover<g ref="char:EOLhyphen"/>nour of <hi>Holy Iſland.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable, <hi>Edw.</hi> Lord <hi>Morp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th,</hi> Governour of <hi>Carliſlle.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>Tho.</hi> Earl of <hi>Plimouth,</hi> Governour of the Block-houſes, Town and County of <hi>Hull.</hi>
+                     </cell>
+                     <cell>Captain <hi>Lionel Coply,</hi> Lieutenant-Governour of the Block-Houſes and Town of <hi>Hull.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Reresby,</hi> Baronet, Gover<g ref="char:EOLhyphen"/>nour of <hi>York,</hi> and <hi>Cliffords</hi> Tower.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Tho. Slingsby,</hi> Governour of <hi>Scarborough</hi> Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Ewd. Villars,</hi> ſenior, Gover<g ref="char:EOLhyphen"/>nour of <hi>Tinmouth</hi> Caſtle.</cell>
+                     <cell>Captain <hi>Hen. Miller,</hi> Deputy-Governour of <hi>Tinmouth</hi> Caſtle.</cell>
+                  </row>
+                  <row>
+                     <cell>His Grace, the Duke of <hi>Beaufort,</hi> Grvernour of <hi>Chepſtow.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Shakerly,</hi> Eſq; Governour of <hi>Cheſter</hi> Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>John,</hi> Earl of <hi>Bath,</hi> Governour of <hi>Plimouth,</hi> and St. <hi>Nicolas</hi> Iſland.</cell>
+                     <cell>Sir <hi>Hugh Piper,</hi> Deputy-Governour of <hi>Plymouth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>Edward,</hi> Earl of <hi>Gainsbourough,</hi> Gover<g ref="char:EOLhyphen"/>nour of <hi>Portsmouth.</hi>
+                     </cell>
+                     <cell>Major <hi>Hen. Slingsby,</hi> Deputy-Governour of <hi>Portsmouth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable Lord <hi>Camb<g ref="char:EOLhyphen"/>den,</hi> Governour of <hi>Goſper,</hi> near <hi>Portsmouth.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>Richard,</hi> Lord <hi>Arundel</hi> of <hi>Treriſe,</hi> Gover<g ref="char:EOLhyphen"/>nour of <hi>Pendennis</hi> Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Robert Holmes,</hi> Governour of the Iſle of <hi>Wight, Cowes, Sandham-Fort, Weſt-Yarmouth,</hi> and <hi>Carrisbrook.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="19" facs="tcp:95834:12"/>
+                  <row>
+                     <cell>Sir <hi>William Godolphin,</hi> Governour of <hi>Scilly</hi> Iſlland,</cell>
+                     <cell>Capt. <hi>Godolphin,</hi> Depuny Gover<g ref="char:EOLhyphen"/>nour of <hi>Scilly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>Chriſtopher</hi> Lord Viſcount <hi>Hatton,</hi> Governour of the Iſle of <hi>Guernſey.</hi>
+                     </cell>
+                     <cell>Capt. <hi>George Littleton,</hi> Deputy Go<g ref="char:EOLhyphen"/>vernour of the Iſle of <hi>Guernſey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Honourable <hi>Thomas</hi> Lord <hi>German,</hi> Governour of <hi>Jer<g ref="char:EOLhyphen"/>ſy</hi> Iſland.</cell>
+                     <cell>Capt. <hi>Henry Boad,</hi> Deputy Gover<g ref="char:EOLunhyphen"/>nour of Jerſy-Iſland.</cell>
+                  </row>
+                  <row>
+                     <cell>Captain <hi>Henry Holmes,</hi> Gover<g ref="char:EOLhyphen"/>nour of Hurſt-Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Freeman,</hi> Governour of <hi>Sandown,</hi> Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Strode,</hi> Governour of <hi>Dover</hi> and Cinque Ports.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Daniel,</hi> Governour of one of the Forts under Dover-Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Rich. Noadward,</hi> Gover<g ref="char:EOLhyphen"/>nour of another Fort under <hi>Do<g ref="char:EOLhyphen"/>ver Caſtle.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Char. Littleton,</hi> Governour of <hi>Sheerneſs.</hi>
+                     </cell>
+                     <cell>Capt. <hi>Robert Crawford,</hi> Deputy Go<g ref="char:EOLhyphen"/>vernour of <hi>Sherneſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Roger Manly,</hi> Governour of <hi>Languard</hi> Fort.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Honoura<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le <hi>Sackville Tufton,</hi> Governour of <hi>Tilbury</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Graveſend.</hi>
+                     </cell>
+                     <cell>Capt. <hi>Robert</hi> St. <hi>Clair,</hi> Lt. Governour of <hi>Tilbery</hi> and <hi>Graveſend.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Robert Minors,</hi> Governour of <hi>
+                           <g ref="char:V">Ʋ</g>pner</hi> Caſtle.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edmund Seymour</hi> Bar. Gover<g ref="char:EOLhyphen"/>nour of <hi>Dartmouth.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Right Hon<hi rend="sup">ble.</hi> 
+                        <hi>Wm.</hi> Lord <hi>Allington,</hi> Conſt. of the Tower.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Tho. Check,</hi> Lieutenant of the Tower.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hia Grace, <hi>Henry</hi> Duke of <hi>Norfolk</hi> Governour and Conſtable of his Majeſties Caſtle of <hi>Windſor.</hi>
+                     </cell>
+                     <cell>Capt. <hi>Charles Potts,</hi> Deputy Gover<g ref="char:EOLhyphen"/>nour of his Majeſties Caſtle of <hi>Windſor.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
